@@ -173,7 +173,8 @@ input[type='text'] {
   -moz-transition: all 0.3s;
   -ms-transition: all 0.3s;
   -o-transition: all 0.3s;
-  transition: all 0.3s; }
+  transition: all 0.3s; 
+}
 
 select {
   background: none;

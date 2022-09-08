@@ -75,10 +75,11 @@ body{
         display: flex;
         flex-direction: column;
       }
-      .collapse{
-        display: flex;
-        justify-content: space-around;
-    }
+     
     .nav-item{
         margin: 35px;
+    }
+     .collapse{
+        display: flex;
+        justify-content: space-around;
     }

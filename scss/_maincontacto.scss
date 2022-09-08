@@ -150,11 +150,7 @@ textarea {
 .message {
 	float: none;
 }
-.name {
-	float: left;
-	width: 45%;
-	color: white;
-}
+
 select {
 	background: url('https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-arrow-down-32.png') no-repeat right;
 	color: white;
@@ -165,6 +161,13 @@ select {
 		display: none;
 	}
 }
+
+.name {
+	float: left;
+	width: 45%;
+	color: white;
+}
+
 .subject {
 	width: 100%;
 }

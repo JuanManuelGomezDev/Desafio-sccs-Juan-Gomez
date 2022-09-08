@@ -70,14 +70,13 @@ card {
 	align-items: center;
 } 
 
-.acercade1 {
-	background-image: linear-gradient(to bottom, #a43a5c, #a44463, #a44e69, #a45770, #a46076);
-	font-family: Times New Roman, Times, Garamond, Georgia, Cambria;
-}
-
 .img-fluid img {
     max-width: 84%;
     margin: auto;
     padding: 0.5rem;
     height: 55%;
+}
+.acercade1 {
+	background-image: linear-gradient(to bottom, #a43a5c, #a44463, #a44e69, #a45770, #a46076);
+	font-family: Times New Roman, Times, Garamond, Georgia, Cambria;
 }

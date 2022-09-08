@@ -116,13 +116,15 @@ nav{
   font-size: 13px;
 }
 
-  nav{
+ 
+  .container-fluid{
+    padding-right:0;
+    padding-left: 0;
+  }
+
+   nav{
         a {
     margin: 0px 6px;
     font-size: 13px;
   }
-  }
-  .container-fluid{
-    padding-right:0;
-    padding-left: 0;
   }

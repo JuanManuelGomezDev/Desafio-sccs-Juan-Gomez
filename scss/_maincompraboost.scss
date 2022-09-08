@@ -1,4 +1,11 @@
-.submitBtn {
+
+.compraboost2{
+    width: 95%;
+    margin: 3rem auto;
+  background-image: $fondocompraboost;
+  }
+
+  .submitBtn {
 	display: block;
 	margin-left: auto;
 	padding: 15px 30px;
@@ -14,9 +21,3 @@
 		transform: translateY(-2px);
 	}
 }
-.compraboost2{
-    width: 95%;
-    margin: 3rem auto;
-  background-image: $fondocompraboost;
-  }
-  

@@ -132,6 +132,11 @@ button {
   background-image: linear-gradient(to bottom, #653882, #5f347b, #593073, #532d6c, #4d2965);
   color: white;
 }
+
+.container-fluid{
+  display: flex;
+  justify-content: space-between;
+}
 @media screen and (max-width: 376px){
   .carousel-item{
     height: 210px;
@@ -199,8 +204,4 @@ button {
   .form3{
     width: 100%;
   }
-}
-.container-fluid{
-  display: flex;
-  justify-content: space-between;
 }
